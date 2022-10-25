@@ -1,1 +1,1 @@
-print ("India" * 5)
+print ("India" 5)
